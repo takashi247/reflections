@@ -1,0 +1,5 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+A: When I change my laptop to a new one so that I can save all the file in my local drive
+into the cloud server and download them to the new laptop or when I colaborate with other
+people to tackle a large project.
