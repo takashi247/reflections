@@ -9,3 +9,7 @@ value do you think it offers?
 A: The staging area is the place to temporally store files to be committed. Those files
 are transferred from the working directory and commitments are recorded in the repository.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: By adding all the files related to one logical change at the same time to the staging
+area, we can make sure to make one commit per logical change.
