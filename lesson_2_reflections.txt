@@ -13,3 +13,28 @@ Q: How can you use the staging area to make sure you have one commit per logical
 
 A: By adding all the files related to one logical change at the same time to the staging
 area, we can make sure to make one commit per logical change.
+
+Q: What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+A: Branches are useful when we create different versions of the original version of the 
+code (i.e., try to experiment something, or some functions).
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: it gives us an overview of the whole branch structure and make it easy to recognize
+how to reach specific nodes in the branch structure.
+
+Q: What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+
+A: Merging combines two branches into one and make all the history logs of both branches
+accessible from the combined branch. Those combined history logs are organized in 
+a chronological manner.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: By always doing merges manually, we can manage and control branches more flexibly. However,
+if we don't manage the branches properly and merge them periodically, there is some risk for
+branches to become too many. In that sense, automatic merging is more useful to prevent the
+number of the branches to become too big.
