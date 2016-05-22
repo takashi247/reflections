@@ -3,3 +3,8 @@ Q: When would you want to use a remote repository rather than keeping all your w
 A: When I change my laptop to a new one so that I can save all the file in my local drive
 into the cloud server and download them to the new laptop or when I colaborate with other
 people to tackle a large project.
+
+Q: Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+A: In order to decide when to synclonize the repository with the remote flexibly.
